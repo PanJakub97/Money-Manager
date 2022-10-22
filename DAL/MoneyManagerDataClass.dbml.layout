@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MoneyManagerDataClass">
+  <DataContextMoniker Name="/MoneyManagerDataClassDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2c5955c1-3cb0-4018-8ee7-fdc9e7b79a53" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/MoneyManagerDataClassDataContext/MONTH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8bc93955-fe09-40bc-964b-e7b726dfd1f5" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="95792703-fcd8-43dd-b413-d1bca5069e0b" absoluteBounds="0.75, 2.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/MoneyManagerDataClassDataContext/TYPESOFEXPANSE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0037201e-222b-4134-b684-f56a4de1aa94" absoluteBounds="0.765, 3.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1fc27f9f-974e-4372-bd86-2f30883baeb8" absoluteBounds="3.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/MoneyManagerDataClassDataContext/USER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6761977a-947f-4075-8755-d1da69db6d34" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="20072cd2-7b28-470a-9f47-8aa0a9bdc3a2" absoluteBounds="3.875, 2.875, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/MoneyManagerDataClassDataContext/YEAR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1728f17e-0a7b-4815-9511-c00c4b492ba5" absoluteBounds="3.8899999999999997, 3.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="330e44cd-c359-4a53-80c9-fbf0d7072bb5" absoluteBounds="5.25, 5.25, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/MoneyManagerDataClassDataContext/TYPE_INCOME_EXPANSE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d5231fb-33e2-47a9-a9d9-0c526018ad22" absoluteBounds="5.265, 5.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dc766eb8-ee60-4471-a982-b8afd85eabc0" absoluteBounds="6.375, 1.25, 2, 2.5401025390625">
+      <DataClassMoniker Name="/MoneyManagerDataClassDataContext/POSITION" />
+      <nestedChildShapes>
+        <elementListCompartment Id="334747af-75a7-43ef-be19-49bf0555f235" absoluteBounds="6.39, 1.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3d79bb43-fe36-4ee1-b9b8-7ed1cbe497e0" absoluteBounds="1.625, 4.875, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/MoneyManagerDataClassDataContext/YearOverview" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1a63f9e9-b483-4974-b60c-69a7fa86e74f" absoluteBounds="1.6400000000000001, 5.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
